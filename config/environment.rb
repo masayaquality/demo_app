@@ -1,7 +1,9 @@
 # Load the Rails application.
-require 'tzinfo'
+require 'rails/all'
 
 # Initialize the Rails application.
 DemoApp::Application.initialize!
 
 DemoApp::Application.configure do
+
+end
